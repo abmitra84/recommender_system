@@ -11,3 +11,7 @@ https://arxiv.org/pdf/1606.07792.pdf
 
 # Recommendation engine primer
 https://www.cse.iitk.ac.in/users/nsrivast/HCC/Recommender_systems_handbook.pdf
+
+# Recommender system 101 type post in Medium (covers ALS):
+https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea
+https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-2-alternating-least-square-als-matrix-4a76c58714a1
