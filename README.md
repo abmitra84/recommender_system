@@ -19,3 +19,7 @@ https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-par
 
 # A survey of modern recommendation systems using Deep Neural Networks:
 https://arxiv.org/pdf/1707.07435.pdf
+
+# Bayesian Adjustment Rating for managing rating equivalency on websites:
+1. https://medium.com/district-data-labs/computing-a-bayesian-estimate-of-star-rating-means-651496a890ab
+2. https://www.analyticsvidhya.com/blog/2019/07/introduction-online-rating-systems-bayesian-adjusted-rating/
