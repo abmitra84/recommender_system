@@ -11,6 +11,7 @@ https://arxiv.org/pdf/1606.07792.pdf
 
 # Recommendation engine primer
 https://www.cse.iitk.ac.in/users/nsrivast/HCC/Recommender_systems_handbook.pdf
+Netflix challenge solution at high level: https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
 
 # Recommender system 101 type post in Medium (covers ALS):
 https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea
