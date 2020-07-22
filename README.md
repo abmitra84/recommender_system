@@ -16,3 +16,6 @@ Netflix challenge solution at high level: https://datajobs.com/data-science-repo
 # Recommender system 101 type post in Medium (covers ALS):
 https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea
 https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-2-alternating-least-square-als-matrix-4a76c58714a1
+
+# A survey of modern recommendation systems using Deep Neural Networks:
+https://arxiv.org/pdf/1707.07435.pdf
